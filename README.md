@@ -40,8 +40,8 @@ This project is aimed at training and deploying a machine learning model to pred
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/kocfinans-loan-approval-api.git
-    cd kocfinans-loan-approval-api
+    git clone https://github.com/esmaascioglu/loan-approval-prediction-case-study.git
+    cd loan-approval-prediction-case-study
     ```
 
 2. Create a virtual environment and activate it:
